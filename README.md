@@ -1,38 +1,58 @@
-## Izabela Rita
-Administration student
+# Izabela Rita 👋
 
-Business Intelligence | Data Analytics | Financial Operations
+### Business Intelligence | Data Analytics
+*Administration Student · Financial Operations*
 
-Administration student passionate about transforming data into insights, optimizing business processes, and developing data-driven solutions.
+---
 
-I combine business knowledge and financial operations experience with data analytics tools to support better decision-making and operational efficiency.
+## 💡 About Me
 
-💡 About Me
+Administration student passionate about transforming
+data into insights, optimizing business processes,
+and developing data-driven solutions.
 
-🎓 Administration student at UNIVESP.
+---
 
-💼 Experience in financial operations and credit processes within the cooperative financial sector.
+## 🎓 Background
 
-📊 Interested in Business Intelligence, Data Analytics, and process optimization.
+- Administration student at **UNIVESP**
+- Experience in financial operations and credit processes
+- **C-Pro R certified** by ANBIMA
 
-📈 Experience with reporting, performance indicators, data visualization, and operational improvements.
+---
 
-🏅 C-Pro R certified by ANBIMA.
+## 🛠️ Tech Stack
 
-📌 Areas of Interest
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Business Intelligence & Data Visualization
+---
 
-Financial Data Analytics
+## 📊 Areas of Interest
 
-Credit Portfolio & Performance Indicators
+- Business Intelligence
+- Financial Data Analytics
+- Process Automation
+- Data Visualization
+- Performance Indicators
 
-Process Automation & Optimization
+---
 
-Exploratory Data Analysis
+## 🚀 Featured Projects
 
-Data-Driven Decision Making
+Coming soon...
 
-📚 Currently Learning
+---
 
-Continuously developing my skills in data analysis, SQL, Python, Power BI, and business intelligence.
+## 📚 Currently Learning
+
+Developing skills in SQL, Python, Power BI
+and Business Intelligence.
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabela-rita/)
