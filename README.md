@@ -1,4 +1,4 @@
-# Izabela Rita 👋
+# Izabela Rita
 
 ### Business Intelligence | Data Analytics
 *Administration Student · Financial Operations*
