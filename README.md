@@ -1,16 +1,38 @@
-## Hi there 👋
+## Izabela Rita
+Administration student
 
-<!--
-**izabela-rita/izabela-rita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Intelligence | Data Analytics | Financial Operations
 
-Here are some ideas to get you started:
+Administration student passionate about transforming data into insights, optimizing business processes, and developing data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I combine business knowledge and financial operations experience with data analytics tools to support better decision-making and operational efficiency.
+
+💡 About Me
+
+🎓 Administration student at UNIVESP.
+
+💼 Experience in financial operations and credit processes within the cooperative financial sector.
+
+📊 Interested in Business Intelligence, Data Analytics, and process optimization.
+
+📈 Experience with reporting, performance indicators, data visualization, and operational improvements.
+
+🏅 C-Pro R certified by ANBIMA.
+
+📌 Areas of Interest
+
+Business Intelligence & Data Visualization
+
+Financial Data Analytics
+
+Credit Portfolio & Performance Indicators
+
+Process Automation & Optimization
+
+Exploratory Data Analysis
+
+Data-Driven Decision Making
+
+📚 Currently Learning
+
+Continuously developing my skills in data analysis, SQL, Python, Power BI, and business intelligence.
